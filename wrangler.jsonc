@@ -6,7 +6,7 @@
   "vars": {
     "FRONTEND_URL": "https://ibf.com.sa,https://www.ibf.com.sa,https://ibf-website.nexgr8mail.workers.dev,http://localhost:5173,http://127.0.0.1:5173",
     "RECIPIENT_EMAIL": "alerts@ibf.com.sa",
-    "SENDER_EMAIL": "alerts@ibf.com.sa",
-    "SMTP_PASS": "eXByvNATzLan"
+    "SENDER_EMAIL": "",
+    "SMTP_PASS": ""
   }
 }
